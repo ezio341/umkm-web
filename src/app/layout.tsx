@@ -6,8 +6,8 @@ import { theme } from "@/utils/themes/theme";
 import { ColorSchemeScript, MantineProvider } from "@mantine/core";
 
 export const metadata = {
-  title: "My Mantine app",
-  description: "I have followed setup instructions carefully",
+  title: "My UMKM",
+  description: "Hello",
 };
 
 export default function RootLayout({
